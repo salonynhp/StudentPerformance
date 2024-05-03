@@ -1,0 +1,14 @@
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.Entity\bin\Debug\net8.0\StudentPerformance.Entity.deps.json
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.Entity\bin\Debug\net8.0\StudentPerformance.Entity.runtimeconfig.json
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.Entity\bin\Debug\net8.0\StudentPerformance.Entity.dll
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.Entity\bin\Debug\net8.0\StudentPerformance.Entity.pdb
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.Entity\obj\Debug\net8.0\StudentPerformance.Entity.csproj.AssemblyReference.cache
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.Entity\obj\Debug\net8.0\StudentPerformance.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.Entity\obj\Debug\net8.0\StudentPerformance.Entity.AssemblyInfoInputs.cache
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.Entity\obj\Debug\net8.0\StudentPerformance.Entity.AssemblyInfo.cs
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.Entity\obj\Debug\net8.0\StudentPerformance.Entity.csproj.CoreCompileInputs.cache
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.Entity\obj\Debug\net8.0\StudentPerformance.Entity.dll
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.Entity\obj\Debug\net8.0\refint\StudentPerformance.Entity.dll
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.Entity\obj\Debug\net8.0\StudentPerformance.Entity.pdb
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.Entity\obj\Debug\net8.0\StudentPerformance.Entity.genruntimeconfig.cache
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.Entity\obj\Debug\net8.0\ref\StudentPerformance.Entity.dll

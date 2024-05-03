@@ -1,0 +1,11 @@
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.ViewModel\bin\Debug\net8.0\StudentPerformance.ViewModel.deps.json
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.ViewModel\bin\Debug\net8.0\StudentPerformance.ViewModel.dll
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.ViewModel\bin\Debug\net8.0\StudentPerformance.ViewModel.pdb
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.ViewModel\obj\Debug\net8.0\StudentPerformance.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.ViewModel\obj\Debug\net8.0\StudentPerformance.ViewModel.AssemblyInfoInputs.cache
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.ViewModel\obj\Debug\net8.0\StudentPerformance.ViewModel.AssemblyInfo.cs
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.ViewModel\obj\Debug\net8.0\StudentPerformance.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.ViewModel\obj\Debug\net8.0\StudentPerformance.ViewModel.dll
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.ViewModel\obj\Debug\net8.0\refint\StudentPerformance.ViewModel.dll
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.ViewModel\obj\Debug\net8.0\StudentPerformance.ViewModel.pdb
+C:\Users\salon\source\Eva\StudentPerformanceData\StudentPerformance.ViewModel\obj\Debug\net8.0\ref\StudentPerformance.ViewModel.dll
